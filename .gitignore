@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+*.pem
+*.key
+wg0.conf
+session-manager-plugin.deb
